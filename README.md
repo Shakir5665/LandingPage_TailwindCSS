@@ -24,3 +24,7 @@ to showcase my understanding of modern web design principles and responsive layo
 - Using Flexbox and Grid in Tailwind
 - Creating reusable components with utility classes
 
+##  Use this Command in your VS Code terminal to see the styles
+- npx tailwindcss -i ./src/input.css -o ./src/output.css --watch
+
+
