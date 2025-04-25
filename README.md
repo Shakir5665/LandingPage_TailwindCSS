@@ -24,4 +24,3 @@ to showcase my understanding of modern web design principles and responsive layo
 - Using Flexbox and Grid in Tailwind
 - Creating reusable components with utility classes
 
-## 📂 Folder Structure
